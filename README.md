@@ -1,0 +1,1 @@
+This project is a clone project, created as I followed along with freeCodeCamp's tutorial on GraphQL
